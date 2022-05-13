@@ -12,5 +12,5 @@ So it'll tweet every 4 hours on average, which gives us 6 tweets / day.
 
 ### How to contribute?
 
-reminders.txt: a list of reminders. Feel free to add/edit things there.
-main.py: the main Python file. Right now, it only prints a random line. We need to send this to Twitter, instead.
+- reminders.txt: a list of reminders. Feel free to add/edit things there.
+- main.py: the main Python file. Right now, it only prints a random line. We need to send this to Twitter, instead.
