@@ -1,14 +1,14 @@
 # Task: Open reminders.txt, which contains a list of reminders, and print a random one out.
-
+import os
+from load_env import load_twitter_env # function for loading keys!
 from time import sleep
 import random
 import tweepy
 
-# Please add your twitter bot KEYS here!
-consumer_key = ""
-consumer_secret = ""
-access_token = ""
-access_token_secret = ""
+
+# Loading twitter credentials
+consumer_key, consumer_secret, access_token, access_token_secret = load_twitter_env()
+
 
 # Authenticate to Twitter using Tweepy
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -29,9 +29,7 @@ def reminder():
      # Random reminder tweets 
      api.update_status(status=remind)
      # sleeps for 4 hours
-     sleep(14400)  
-   else:
-     print('No reminders!')
+     sleep(14400)
 
 if __name__ == "__main__":
    reminder()
