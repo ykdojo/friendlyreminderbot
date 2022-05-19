@@ -5,10 +5,8 @@ from time import sleep
 import random
 import tweepy
 
-
 # Loading twitter credentials
 consumer_key, consumer_secret, access_token, access_token_secret = load_twitter_env()
-
 
 # Authenticate to Twitter using Tweepy
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
