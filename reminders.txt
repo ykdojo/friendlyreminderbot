@@ -8,6 +8,7 @@ Health Reminders:
 - Hey human, remember to eat some fruits and stay healthy ok
 - Hey human, guess what? It's time to take a break from your screen - if you want! See you in 5 minutes, and Have fun 😁
 - Hey human, remember to laugh each day. It is good for your health
+- Hey human, remember to floss your teeth everyday
 
 Relaxation Reminders:
 - Hey human, remember to release any tension in your shoulders
@@ -24,6 +25,7 @@ Positivity Reminders:
 - Hey human, remember to believe in yourself ❤️
 - Hey human, just remember - no excuses! Dw, you got this 💪
 - Hey human, remember you are here for a reason. This world needed one of you!
+- Hey human, remember that life may be tough but so are you! 💪
 
 Productivity Reminders:
 - Hey human, time management is the key 🔑.
@@ -32,13 +34,17 @@ Productivity Reminders:
 - Hey human, remember to distribute your tasks evenly today so that you don't stress on things and get them done on time 📝
 - Hey human, remember to use Pomodoro technique to stay time efficient with your tasks
 - Hey human, utlize discipline over motivation. Motivation is finite, your will to get things done is ever-lasting!
+- Hey human, remember to take breaks. It's okay to step away and come back with a fresh mind!
 
 Motivational Reminders:
 - Hey human, whenever you feel like quitting, just remind yourself why you started 💪
 - Hey human, shoot for the mooon; even if you miss you will land among the stars ✨
 - Hey human, why don't you stop scrolling and finish that thing you need to do - but no worries if you want to take a rest
+- Hey human, the only impossible journey is the one you never begin 🚀
 - Hey human, future you will thank present you for the work you are doing.
 - Hey human, remember that getting started is the hardest part. Just start!
+- Hey human, Rome wasn't built in a day. You'll get there with time - keep it up!
+- Hey human, never give up what you want the most for what you want now.
 
 Social Reminders:
 - Hey human, remember you’re not alone. Comment anything below so others can support you
@@ -54,6 +60,13 @@ Wisdom Reminders:
 - Hey human, remember to be patient, good things take time.
 - Hey human, your future is created by what you do today not tomorrow ✨
 - Hey human, remember that perfection is the enemy of progress, make sure to not let perfection stop you.
+- Hey human, working towards a better future is great; don't forget the present moment, too!
+- Hey human, remember that overthinking kills your happiness.
+
+Debugging Reminders:
+- Hey human, taking 30 minutes nap😪 can help you more than 6 hours of debugging.
+- Hey human, debug your program after going for a walk 🚶. 
+- Hey human, writing bad code is better than not writing anything at all. 
 
 Meta Reminder:
 - Hey human, is there anything else you think I should learn to say? Let me know👇
