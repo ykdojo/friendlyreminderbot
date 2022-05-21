@@ -1,4 +1,4 @@
-gitHealth Reminders:
+Health Reminders:
 - Hey human, remember to drink water
 - Hey human, remember to stand up and stretch
 - Hey human, remember to exercise from time to time
