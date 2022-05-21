@@ -79,6 +79,8 @@ Programming Reminders:
   Debugging Reminders:
   - Hey human, taking 30 minutes nap😪 can help you with more than 6 hours of debugging.
   - Hey human, debug your program after going for a walk 🚶.
+  - Hey human, writing bad code is better than not writing anything at all. 
+  - Hey human, try talking through your logic to a rubber duck to help debug 🦆.
 
 Other Reminders:
   Meta Reminders: 
