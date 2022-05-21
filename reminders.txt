@@ -1,4 +1,4 @@
-Health Reminders:
+gitHealth Reminders:
 - Hey human, remember to drink water
 - Hey human, remember to stand up and stretch
 - Hey human, remember to exercise from time to time
@@ -71,6 +71,7 @@ Debugging Reminders:
 - Hey human, taking 30 minutes nap😪 can help you more than 6 hours of debugging.
 - Hey human, debug your program after going for a walk 🚶. 
 - Hey human, writing bad code is better than not writing anything at all. 
+- Hey human, try talking through your logic to a rubber duck to help debug 🦆.
 
 Meta Reminder:
 - Hey human, is there anything else you think I should learn to say? Let me know👇
