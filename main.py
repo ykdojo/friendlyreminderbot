@@ -6,10 +6,10 @@ import random
 import tweepy
 
 # Loading twitter credentials
-consumer_key, consumer_secret, access_token, access_token_secret = load_twitter_env()
+consumer_key, consumer_secret, access_token, access_token_secret, bearer_token = load_twitter_env()
 
 # Connect to the TWITTER Client
-client = tweepy.Client(bearer_token='enter-token',
+client = tweepy.Client(bearer_token=bearer_token,
                        consumer_key=consumer_key, 
                        consumer_secret=consumer_secret, 
                        access_token=access_token, 
@@ -24,8 +24,8 @@ def reminder():
      remind = line.strip()
     
      # Random reminder tweets 
-     # client.create_tweet(text=remind)
      print(remind)
+     client.create_tweet(text=remind)
      # sleeps for 4 hours
      sleep(14400)
 
