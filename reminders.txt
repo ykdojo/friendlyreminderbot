@@ -22,10 +22,6 @@ Health Reminders:
   - Hey human, remember to laugh each day. It is good for your health
   - Hey human, do know that it would not always be like this.
   - Hey human, remember that When the worst of this is over, you will feel more joy about the little things in life.
-  - Hey human, Just know that you have come this far and you are doing extremely well.
-  - Hey human, You will come out on the other side as a much stronger person. I have faith in you. 
-  - Hey human, Now is not the time to be too hard on yourself. You are more than capable of getting through this, even if you can’t always see it.
-  - Hey human, find little things to be grateful for. 
 
 Relaxation Reminders:
   Break Reminders: 
@@ -33,7 +29,7 @@ Relaxation Reminders:
   - Hey human, remember to rest your eyes from time to time ok?
   - Hey human, are you being lazy on your couch right now? …ok good 🤖
   - Hey human, remember to take breaks. It's okay to step away and come back with a fresh mind!
-  - Hey human, It’s okay to have days when you don’t work or check things off your to-do list.
+ 
   Hobby Reminders: 
   - Hey human, how about listening to your favorite song 🎙️🎵
   - Hey human, is the weather good today? If it is, let's go for a walk! If not - no worries 🤖
@@ -48,8 +44,6 @@ Relaxation Reminders:
   - Hey human, remember to smile to other humans :)
 
 Motivational Reminders:
-  - Hey human, celebrate your small wins. yes, celebrate them. 
-
   Positivity Reminders: 
   - Hey human, everything’s going to be ok
   - Hey human, remember to tell your heart that ALL IS WELL 💚.
