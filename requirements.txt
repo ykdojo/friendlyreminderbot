@@ -1,2 +1,3 @@
 python-dotenv==0.20.0
 tweepy~=4.0
+PyYAML==6.0
