@@ -1,9 +1,14 @@
 # Task: Open reminders.txt, which contains a list of reminders, and print a random one out.
-import os
 from load_env import load_twitter_env # function for loading keys!
 from time import sleep
 import random
 import tweepy
+
+from yaml import load, dump
+try:
+    from yaml import CLoader as Loader
+except ImportError:
+    from yaml import Loader
 
 # Loading twitter credentials
 consumer_key, consumer_secret, access_token, access_token_secret, bearer_token = load_twitter_env()
@@ -14,21 +19,26 @@ client = tweepy.Client(bearer_token=bearer_token,
                        consumer_secret=consumer_secret, 
                        access_token=access_token, 
                        access_token_secret=access_token_secret)
-def reminder():
-   while True:
-     with open('reminders.txt') as f: lines = f.readlines()
 
-     # Select a random line from the reminders file.
-     lines = [line.strip() for line in lines if line.strip()]
-     lines = [line[2:] for line in lines if line[0] == '-']
-     line = lines[random.randint(0, len(lines) - 1)]
-     remind = line.strip()
-    
-     # Random reminder tweets 
-     print(remind)
-     client.create_tweet(text=remind)
-     # sleeps for 4 hours
-     sleep(14400)
+
+def remind():
+    while True:
+        with open('reminders.txt') as f:
+            categories = load(f.read(), Loader=Loader)
+
+        reminders_to_print = []
+        for subcategory in categories.values():
+            for reminders in subcategory.values():
+                for reminder_raw_text in reminders:
+                    reminders_to_print.append(reminder_raw_text.strip())
+
+        # Random reminder tweets
+        reminder = random.choice(reminders_to_print)
+        print(reminder)
+        client.create_tweet(text=reminder)
+        # sleeps for 4 hours
+        sleep(14400)
+
 
 if __name__ == "__main__":
-   reminder()
+   remind()
