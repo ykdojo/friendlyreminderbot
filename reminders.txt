@@ -10,6 +10,7 @@ Health Reminders:
   - Hey human, sleep enough hours so your brain can rewire and learn!
   Screen-time Reminders: 
   - Hey human, guess what? It's time to take a break from your screen - if you want! See you in 5 minutes, and Have fun 😁
+  - Hey human, go touch some grass! They missed you. 
   Dietary Reminders: 
   - Hey human, remember to eat some fruits and stay healthy ok
   Hygiene Reminders: 
@@ -20,6 +21,7 @@ Health Reminders:
   - Hey human, remember to relax your jaw and release any tension there
   Mental Health Reminders:
   - Hey human, remember to laugh each day. It is good for your health
+  - Hey human, if you feel overwhelmed, feel free to talk with someone
 
 Relaxation Reminders:
   Break Reminders: 
