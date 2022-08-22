@@ -75,6 +75,7 @@ Motivational Reminders:
   - Hey human, remember to distribute your tasks evenly today so that you don't stress on things and get them done on time 📝
   - Hey human, remember to use Pomodoro technique to stay time efficient with your tasks
   - Hey human, utlize discipline over motivation. Motivation is finite, your will to get things done is ever-lasting!
+  - Hey human, remember Collaboration 1st, Code 2nd!
 
 Programming Reminders:
   Debugging Reminders:
